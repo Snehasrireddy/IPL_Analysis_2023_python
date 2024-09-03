@@ -33,8 +33,3 @@ After the data cleaning process, the dataset was imported into Power BI for visu
 
 This project provided a comprehensive understanding of the IPL 2023 season through meticulous data cleaning and powerful visualizations. 
 
-Clone this repository to explore the data and Power BI report. Feel free to contribute or suggest improvements.
-
----
-
-This content provides a clear and structured overview of your project, highlighting the critical aspects of data cleaning and the use of Power BI for analysis.
